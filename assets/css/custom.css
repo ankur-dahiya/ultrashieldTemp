@@ -92,3 +92,8 @@
       -ms-transform: translateY(-3px);
           transform: translateY(-3px);
 }
+
+#cmp-logo{
+  height: 63px;
+  object-fit: contain;
+}
